@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stiven\\source\\repos\\Reconocimiento\\Reconocimiento\\Reconocimiento.csproj": {}
+    "C:\\Users\\Stiven\\Source\\Repos\\ReconocimientoP\\Reconocimiento\\Reconocimiento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Stiven\\source\\repos\\Reconocimiento\\Reconocimiento\\Reconocimiento.csproj": {
+    "C:\\Users\\Stiven\\Source\\Repos\\ReconocimientoP\\Reconocimiento\\Reconocimiento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stiven\\source\\repos\\Reconocimiento\\Reconocimiento\\Reconocimiento.csproj",
+        "projectUniqueName": "C:\\Users\\Stiven\\Source\\Repos\\ReconocimientoP\\Reconocimiento\\Reconocimiento.csproj",
         "projectName": "Reconocimiento",
-        "projectPath": "C:\\Users\\Stiven\\source\\repos\\Reconocimiento\\Reconocimiento\\Reconocimiento.csproj",
+        "projectPath": "C:\\Users\\Stiven\\Source\\Repos\\ReconocimientoP\\Reconocimiento\\Reconocimiento.csproj",
         "packagesPath": "C:\\Users\\Stiven\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stiven\\source\\repos\\Reconocimiento\\Reconocimiento\\obj\\",
+        "outputPath": "C:\\Users\\Stiven\\Source\\Repos\\ReconocimientoP\\Reconocimiento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stiven\\AppData\\Roaming\\NuGet\\NuGet.Config",

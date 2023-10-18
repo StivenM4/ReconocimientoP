@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PtjalPz2m+4UBdkS/wwJWTBjyLBeGJHoIAb9Px6n9/lxvvng5FSqVaLJGyMzcJyNwJxZGqhq2fZHjhWKB8svDA==",
+  "dgSpecHash": "0BV68PXeyFy3zFyQTNqKi8T8OkyQxtEjo8mUBCLQM3jDK7JbeZJ/ptbnhPhohhi2W7aWjWVoThr+j03NzHkH1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Stiven\\source\\repos\\Reconocimiento\\Reconocimiento\\Reconocimiento.csproj",
+  "projectFilePath": "C:\\Users\\Stiven\\Source\\Repos\\ReconocimientoP\\Reconocimiento\\Reconocimiento.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stiven\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\Stiven\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",

@@ -20,6 +20,7 @@ namespace Reconocimiento
             abrir.Title = "Seleccion la imagen";
             String text = "";
 
+
             if (abrir.ShowDialog() == DialogResult.OK)
             {
                 //ponemos la imagen seleccionada al contendor de la interfaz grafica
@@ -38,6 +39,7 @@ namespace Reconocimiento
                         //asignamos el texto obtenido por el procesamiento para ponerlo en la etiqueta
                         text = page.GetText();
                         LabelPlaca.Text = text;
+                        TextRuta.Text = imagen;
                     }
 
                 }

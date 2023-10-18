@@ -47,7 +47,7 @@
             // 
             // BtnSubir
             // 
-            BtnSubir.BackColor = Color.LightSeaGreen;
+            BtnSubir.BackColor = Color.SkyBlue;
             BtnSubir.Font = new Font("Book Antiqua", 11.25F, FontStyle.Bold, GraphicsUnit.Point);
             BtnSubir.Location = new Point(38, 19);
             BtnSubir.Name = "BtnSubir";
@@ -69,7 +69,7 @@
             // 
             // panel1
             // 
-            panel1.BackColor = Color.AntiqueWhite;
+            panel1.BackColor = Color.SeaShell;
             panel1.Controls.Add(ContenedorImagen);
             panel1.Controls.Add(TextRuta);
             panel1.Controls.Add(BtnSubir);
@@ -84,12 +84,13 @@
             ContenedorImagen.Location = new Point(38, 95);
             ContenedorImagen.Name = "ContenedorImagen";
             ContenedorImagen.Size = new Size(576, 392);
+            ContenedorImagen.SizeMode = PictureBoxSizeMode.CenterImage;
             ContenedorImagen.TabIndex = 4;
             ContenedorImagen.TabStop = false;
             // 
             // panel3
             // 
-            panel3.BackColor = Color.LightSeaGreen;
+            panel3.BackColor = Color.SkyBlue;
             panel3.Controls.Add(LabelPlaca);
             panel3.Controls.Add(label1);
             panel3.Controls.Add(ContenedorPlaca);
@@ -108,7 +109,6 @@
             LabelPlaca.Size = new Size(133, 33);
             LabelPlaca.TabIndex = 3;
             LabelPlaca.Text = "###-###";
-
             // 
             // label1
             // 
@@ -122,7 +122,7 @@
             // 
             // ContenedorPlaca
             // 
-            ContenedorPlaca.BackColor = Color.AntiqueWhite;
+            ContenedorPlaca.BackColor = Color.SeaShell;
             ContenedorPlaca.BorderStyle = BorderStyle.Fixed3D;
             ContenedorPlaca.Location = new Point(59, 100);
             ContenedorPlaca.Name = "ContenedorPlaca";
