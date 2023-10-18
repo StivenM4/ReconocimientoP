@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "PtjalPz2m+4UBdkS/wwJWTBjyLBeGJHoIAb9Px6n9/lxvvng5FSqVaLJGyMzcJyNwJxZGqhq2fZHjhWKB8svDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stiven\\source\\repos\\Reconocimiento\\Reconocimiento\\Reconocimiento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stiven\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Stiven\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Stiven\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\Stiven\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\Stiven\\.nuget\\packages\\tesseract\\5.2.0\\tesseract.5.2.0.nupkg.sha512",
+    "C:\\Users\\Stiven\\.nuget\\packages\\tesseract.net.sdk\\4.5.411\\tesseract.net.sdk.4.5.411.nupkg.sha512"
+  ],
+  "logs": []
+}
